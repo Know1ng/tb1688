@@ -1,10 +1,10 @@
-KEYWORD = '裤子' # 搜索商品的关键字
+KEYWORD = '' # 搜索商品的关键字
 MONGO_URI = 'localhost'
 MONGO_DB = 'tb_1688'
 MONGO_TABLE = KEYWORD # 以搜索关键词为表名
 
 
-COOKIE = 'hng=CN%7Czh-CN%7CCNY%7C156; cna=AxdKEs8m2RACAduGcv5qQ+6P; lid=lydxy8712595; ali_ab=112.94.190.68.1541738239945.7; UM_distinctid=167973c6c0421-0933721fc41371-3f674706-e1000-167973c6c05120; cookie2=1c09e08d0a833d700ad885a8f7ed2af4; t=7a35e71798c14cce9578dc27c01de3e0; _tb_token_=e8ebdeef63487; csg=6817fd56; ali_apache_track=c_mid=b2b-1982205558|c_lid=lydxy8712595|c_ms=1; ali_apache_tracktmp=c_w_signed=Y; last_mid=b2b-1982205558; _csrf_token=1546940566457; __rn_alert__=false; _m_h5_tk=55aacf07e73e663cd842896ee1394c81_1546951845061; _m_h5_tk_enc=69232611cfad80853509ab12d3582c2f; _is_show_loginId_change_block_=b2b-1982205558_false; _show_force_unbind_div_=b2b-1982205558_false; _show_sys_unbind_div_=b2b-1982205558_false; _show_user_unbind_div_=b2b-1982205558_false; __cn_logon__=false; h_keys="%u7537%u88c5#%u94c5%u7b14#2b%u94c5%u7b14#%u7535%u8111#%u5973%u88c5#%u9422%u75af%ue5ca#%u82f9%u679c%u7535%u8111#%u9996%u8111"; alicnweb=touch_tb_at%3D1546957799904%7ChomeIdttS%3D02311510086060039350646378218473773050%7ChomeIdttSAction%3Dtrue%7Clastlogonid%3Dlydxy8712595; ad_prefer="2019/01/08 22:31:03"; JSESSIONID=02A3D63FA0C66C4C92F5CFA545869319; l=aBtooWOxyYLmTq9pkMaTBSHDg707ADZPe51y1Mam2TEhNn5aDjCL1z8b-VwRj_qC5BGy_K-59; isg=BAcHbUCSF6qRX5MWB7euHJX8lrsRpMQsWmgW9dn0GBbhSCcK4d9CPg1O7kizpLNm'
+COOKIE = ''
 USER_AGENT = [
     'Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)',
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
