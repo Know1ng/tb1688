@@ -4,7 +4,7 @@ MONGO_DB = 'tb_1688'
 MONGO_TABLE = KEYWORD # 以搜索关键词为表名
 
 
-COOKIE = ''
+COOKIE = '' #   输入用户登录后的cookie
 USER_AGENT = [
     'Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 9.0; en-US)',
     "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.1; SV1; AcooBrowser; .NET CLR 1.1.4322; .NET CLR 2.0.50727)",
